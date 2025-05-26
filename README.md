@@ -1,1 +1,2 @@
-# Mermaid-diagrama
+sequenceDiagram
+    Alice->>Bob: Hola Bob
